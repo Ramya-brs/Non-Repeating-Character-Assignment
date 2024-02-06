@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    margin: 200px;
+    background-size: cover;
+}
+
+.container {
+    width: 50%;
+    margin: 0 auto; /* Center the container horizontally */
+    padding: 20px;
+    background: url("../img/bg.jpg");
+    background-size: cover;
+    border: 5px solid palevioletred;
+    color:#ccc;
+    font-weight: 1500;
+    font-size: 15px;
+}
+
+input {
+    padding: 5px;
+    margin-right: 5px;
+}
+
+button {
+    padding: 5px 10px;
+    cursor: pointer;
+}
+label {
+    color:darkslategrey
+}
+#result {
+    color:darkslategrey
+}
